@@ -19,3 +19,8 @@ function bbb()
 {
 	
 }
+
+function ccc()
+{
+	
+}
