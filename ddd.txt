@@ -16,3 +16,8 @@ jjj
 
 
 kkk
+
+function aaa()
+{
+	
+}
