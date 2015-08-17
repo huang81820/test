@@ -15,9 +15,17 @@ ggg
 jjj
 
 
+<<<<<<< .mine
 kkk
 
-function bbb()
+=======
+kkk
+
+>>>>>>> .theirs
+function aaa()
+{
+	
+}function bbb()
 {
 
 }
