@@ -12,7 +12,10 @@ ggg
 用户二提交二用户一提交二
 
 
-function aaa()
+function bbb()
+{
+	
+}function aaa()
 {
 	
 }
