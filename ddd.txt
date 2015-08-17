@@ -12,20 +12,3 @@ ggg
 用户二提交二用户一提交二
 
 
-jjj
-
-
-<<<<<<< .mine
-kkk
-
-=======
-kkk
-
->>>>>>> .theirs
-function aaa()
-{
-	
-}function bbb()
-{
-
-}
