@@ -8,6 +8,11 @@ ggg
 下面5
 
 
+function aaa()
+{
+	
+}
+
 
 123    789
 
